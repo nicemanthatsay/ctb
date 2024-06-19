@@ -1,0 +1,20 @@
+//Use this if single telegram
+[
+  {
+    "tgWebAppData": "",
+    "seedPhrase": ""
+  }
+]
+
+//Use this set-up if multi-account telegram
+
+[
+  {
+    "tgWebAppData": "",
+    "seedPhrase": ""
+  },
+  {
+    "tgWebAppData": "",
+    "seedPhrase": ""
+  }
+]
